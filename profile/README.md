@@ -52,6 +52,7 @@ AITG는 확장성과 유지보수성을 위해 마이크로서비스 지향 아�
 ## 📫 Contact & Support
 AITG 프로젝트는 개발 자체에 대한 깊은 흥미와 사용자 중심의 사고를 바탕으로 성장하고 있습니다.
 
+- **HomePage:** https://aitg-discord-bot.github.io/AITG-Web/
 - **GitHub:** [macqueen0987](https://github.com/macqueen0987)
 - **Email:** [me@code0987.com](mailto:me@code0987.com)
 - **Support Discord:** [Join AITG Support Server](https://discord.gg/FZuM8F5xBz)
